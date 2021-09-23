@@ -1,0 +1,20 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-planoiv
+title,"План проведения плановых проверок органов исполнительной власти на очередной год"
+description,"План проведения плановых проверок органов исполнительной власти на очередной год"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160919
+modified,20200429
+provenance,"План проведения плановых проверок Центрального аппарата и Территориальных органов Росздравнадзора в отношении органов исполнительной власти на 2018 год. Набор актуализируется ежегодно."
+valid,20210104
+subject,"план проверок, Росздравнадзор, органы исполнительной власти"
+data-20200429-structure-20160919,http://roszdravnadzor.ru/opendata/7710537160-planoiv/data-20200429-structure-20160919.csv
+data-20180625-structure-20160919,http://roszdravnadzor.ru/opendata/7710537160-planoiv/data-20180625-structure-20160919.csv
+data-20170519-structure-20160919,http://roszdravnadzor.ru/opendata/7710537160-planoiv/data-20170519-structure-20160919.csv
+data-20160919-structure-20160919,http://roszdravnadzor.ru/opendata/7710537160-planoiv/data-20160919-structure-20160919.csv
+structure-20160919,http://roszdravnadzor.ru/opendata/7710537160-planoiv/structure-20160919.csv

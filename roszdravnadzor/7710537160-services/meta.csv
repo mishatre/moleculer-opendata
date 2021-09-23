@@ -1,0 +1,27 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-services
+title,"Информация о степени удовлетворенности качеством предоставления государственных услуг Росздравнадзора"
+description,"Информация о степени удовлетворенности качеством предоставления государственных услуг Росздравнадзора"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160309
+modified,20210802
+provenance,"Набор содержит информацию о степени удовлетворенности качеством предоставления государственных услуг Росздравнадзора. Набор актуализируется еженедельно."
+valid,20210808
+subject,"оценка, государственные услуги, удовлетворенность качеством оказания услуги"
+data-20210802-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210802-structure-20160518.csv
+data-20210727-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210727-structure-20160518.csv
+data-20210622-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210622-structure-20160518.csv
+data-20210616-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210616-structure-20160518.csv
+data-20210510-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210510-structure-20160518.csv
+data-20210429-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210429-structure-20160518.csv
+data-20210423-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210423-structure-20160518.csv
+data-20210412-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210412-structure-20160518.csv
+data-20210405-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210405-structure-20160518.csv
+data-20210404-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/data-20210404-structure-20160518.csv
+structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-services/structure-20160518.csv
+structure-20160309,http://roszdravnadzor.ru/opendata/7710537160-services/structure-20160309.csv

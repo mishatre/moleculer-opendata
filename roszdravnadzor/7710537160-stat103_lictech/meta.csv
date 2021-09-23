@@ -1,0 +1,26 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-stat103_lictech
+title,"Сведения об осуществлении лицензирования по виду деятельности Производство и техническое обслуживание (за исключением случая, если техническое обслуживание осуществляется для обеспечения собственных нужд юридического лица или индивидуального предпринимателя) медицинской техники (приказ Росстата № 103)"
+description,"Сведения об осуществлении лицензирования по виду деятельности 'Производство и техническое обслуживание (за исключением случая, если техническое обслуживание осуществляется для обеспечения собственных нужд юридического лица или индивидуального предпринимателя) медицинской техники' (приказ Росстата № 103). За пол года нарастающим итогом."
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20150201
+modified,20210914
+provenance,"Обновление набора данных"
+valid,20220314
+subject,"сведения об осуществлении лицензирования, приказ № 103"
+data-20210914-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20210914-structure-20150601.csv
+data-20210202-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20210202-structure-20150601.csv
+data-20200823-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20200823-structure-20150601.csv
+data-20200311-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20200311-structure-20150601.csv
+data-20190803-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20190803-structure-20150601.csv
+data-20190204-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20190204-structure-20150601.csv
+data-20180719-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20180719-structure-20150601.csv
+data-20180126-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20180126-structure-20150601.csv
+data-20180119-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20180119-structure-20150601.csv
+data-20170719-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/data-20170719-structure-20150601.csv
+structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-stat103_lictech/structure-20150601.csv

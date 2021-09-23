@@ -1,0 +1,26 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-ionspp
+title,"Сведения о выданных сертификатах на право ввоза/вывоза наркотических средств, психотропных веществ и их прекурсоров"
+description,"Сведения о выданных сертификатах на право ввоза/вывоза наркотических средств, психотропных веществ и их прекурсоров"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,JSON
+created,20150601
+modified,20210919
+provenance,"Обновление набора данных"
+valid,20210926
+subject,"ввоз/вывоз наркотических средств, психотропных веществ и их прекурсоров; НСПП"
+data-20210919-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210919-structure-20150601.json
+data-20210912-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210912-structure-20150601.json
+data-20210905-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210905-structure-20150601.json
+data-20210829-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210829-structure-20150601.json
+data-20210822-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210822-structure-20150601.json
+data-20210815-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210815-structure-20150601.json
+data-20210808-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210808-structure-20150601.json
+data-20210801-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210801-structure-20150601.json
+data-20210725-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210725-structure-20150601.json
+data-20210718-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/data-20210718-structure-20150601.json
+structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-ionspp/structure-20150601.json

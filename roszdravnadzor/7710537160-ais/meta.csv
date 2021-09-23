@@ -1,0 +1,19 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-ais
+title,"Сведения об автоматизированной информационной системе Росздравнадзора"
+description,"Перечень подсистем АИС Росздравнадзора"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20170217
+modified,20200505
+provenance,"Набор содержит перечень подсистем автоматизированной информационной системы Росздравнадзора. Набор актуализируется ежегодно."
+valid,20211231
+subject,"АИС, Росздравнадзор"
+data-20200505-structure-20170217,http://roszdravnadzor.ru/opendata/7710537160-ais/data-20200505-structure-20170217.csv
+data-20180625-structure-20170217,http://roszdravnadzor.ru/opendata/7710537160-ais/data-20180625-structure-20170217.csv
+data-20170217-structure-20170217,http://roszdravnadzor.ru/opendata/7710537160-ais/data-20170217-structure-20170217.csv
+structure-20170217,http://roszdravnadzor.ru/opendata/7710537160-ais/structure-20170217.csv

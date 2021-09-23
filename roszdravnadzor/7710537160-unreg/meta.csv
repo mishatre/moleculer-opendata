@@ -1,0 +1,28 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-unreg
+title,"Сведения об информационных письмах по контролю за обращением медицинских изделий"
+description,"Сведения об информационных письмах по контролю за обращением медицинских изделий"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160309
+modified,20210901
+provenance,"Набор содержит все сведения об информационных письмах по контролю за обращением медицинских изделий, актуализируемый ежемесячно."
+valid,20211001
+subject,"информационные письма, контроль за обращением медицинских изделий, наименование медицинского изделия, производитель, тема письма"
+data-20210901-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210901-structure-20160413.csv
+data-20210801-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210801-structure-20160413.csv
+data-20210701-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210701-structure-20160413.csv
+data-20210601-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210601-structure-20160413.csv
+data-20210501-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210501-structure-20160413.csv
+data-20210401-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210401-structure-20160413.csv
+data-20210301-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210301-structure-20160413.csv
+data-20210201-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210201-structure-20160413.csv
+data-20210101-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20210101-structure-20160413.csv
+data-20201201-structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/data-20201201-structure-20160413.csv
+structure-20160413,http://roszdravnadzor.ru/opendata/7710537160-unreg/structure-20160413.csv
+structure-20160406,http://roszdravnadzor.ru/opendata/7710537160-unreg/structure-20160406.csv
+structure-20160309,http://roszdravnadzor.ru/opendata/7710537160-unreg/structure-20160309.csv

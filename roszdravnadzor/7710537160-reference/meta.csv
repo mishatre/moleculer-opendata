@@ -1,0 +1,19 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-reference
+title,"Референтные группы Росздравнадзора"
+description,"Перечень референтных групп Росздравнадзора"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20180315
+modified,20200502
+provenance,"Набор содержит перечень референтных групп Росздравнадзора. Набор актуализируется по мере внесения изменений."
+valid,20211231
+subject,"Референтные группы, Росздравнадзор"
+data-20200502-structure-20180315,http://roszdravnadzor.ru/opendata/7710537160-reference/data-20200502-structure-20180315.csv
+data-20190401-structure-20180315,http://roszdravnadzor.ru/opendata/7710537160-reference/data-20190401-structure-20180315.csv
+data-20180315-structure-20180315,http://roszdravnadzor.ru/opendata/7710537160-reference/data-20180315-structure-20180315.csv
+structure-20180315,http://roszdravnadzor.ru/opendata/7710537160-reference/structure-20180315.csv

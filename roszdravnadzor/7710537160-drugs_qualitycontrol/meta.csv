@@ -1,0 +1,28 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-drugs_qualitycontrol
+title,"Сведения об осуществлении государственного контроля качества лекарственных средств"
+description,"Сведения о результатах проверок серий и партий ЛС Федеральной службой по надзору в сфере здравоохранения, а также письмах, соответствующих проверкам"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160330
+modified,20210919
+provenance,"Набор содержит сведения об осуществлении государственного контроля качества лекарственных средств, актуализируемые еженедельно."
+valid,20210926
+subject,"Сведения об осуществлении государственного контроля качества лекарственных средств"
+data-20210919-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210919-structure-20171120.csv
+data-20210912-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210912-structure-20171120.csv
+data-20210905-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210905-structure-20171120.csv
+data-20210829-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210829-structure-20171120.csv
+data-20210822-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210822-structure-20171120.csv
+data-20210815-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210815-structure-20171120.csv
+data-20210808-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210808-structure-20171120.csv
+data-20210801-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210801-structure-20171120.csv
+data-20210725-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210725-structure-20171120.csv
+data-20210718-structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/data-20210718-structure-20171120.csv
+structure-20171120,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/structure-20171120.csv
+structure-20160606,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/structure-20160606.csv
+structure-20160309,http://roszdravnadzor.ru/opendata/7710537160-drugs_qualitycontrol/structure-20160309.csv

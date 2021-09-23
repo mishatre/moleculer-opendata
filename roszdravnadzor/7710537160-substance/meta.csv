@@ -1,0 +1,28 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-substance
+title,"Реестр разрешений на ввоз (вывоз) из РФ сильнодействующих веществ, не являющихся прекурсорами наркотических средств и психотропных веществ"
+description,"Реестр разрешений на ввоз (вывоз) из РФ сильнодействующих веществ, не являющихся прекурсорами наркотических средств и психотропных веществ"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160310
+modified,20210919
+provenance,"Набор содержит весь реестр разрешений на ввоз (вывоз) из РФ сильнодействующих веществ, не являющихся прекурсорами наркотических средств и психотропных веществ, актуализируемый еженедельно."
+valid,20210926
+subject,"реестр разрешений, сильнодействующие вещества, заявитель, дата, номер, вид решения"
+data-20210919-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210919-structure-20191004.csv
+data-20210912-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210912-structure-20191004.csv
+data-20210905-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210905-structure-20191004.csv
+data-20210829-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210829-structure-20191004.csv
+data-20210822-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210822-structure-20191004.csv
+data-20210815-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210815-structure-20191004.csv
+data-20210808-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210808-structure-20191004.csv
+data-20210801-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210801-structure-20191004.csv
+data-20210725-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210725-structure-20191004.csv
+data-20210718-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/data-20210718-structure-20191004.csv
+structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-substance/structure-20191004.csv
+structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-substance/structure-20160518.csv
+structure-20160318,http://roszdravnadzor.ru/opendata/7710537160-substance/structure-20160318.csv

@@ -1,0 +1,27 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-importcell
+title,"Реестр заключений на ввоз (вывоз) в РФ органов и тканей человека, крови и ее компонентов, образцов биологических материалов человека выданных до 01.06.2016"
+description,"Реестр заключений на ввоз (вывоз) в Российскую Федерацию органов и тканей человека, крови и ее компонентов, образцов биологических материалов человека"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160310
+modified,20170403
+provenance,"Набор содержит перечень всех заключений на ввоз (вывоз) в Российскую Федерацию органов и тканей человека, крови и ее компонентов, образцов биологических материалов человека, выданных Росздравнадзором до 01.06.2016. Данный набор данных переведен в архив."
+valid,20210517
+subject,"реестр разрешений, ввоз органов и тканей, заявитель, дата, номер, вид решения"
+data-20170403-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170403-structure-20160518.csv
+data-20170327-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170327-structure-20160518.csv
+data-20170320-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170320-structure-20160518.csv
+data-20170315-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170315-structure-20160518.csv
+data-20170306-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170306-structure-20160518.csv
+data-20170227-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170227-structure-20160518.csv
+data-20170220-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170220-structure-20160518.csv
+data-20170213-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170213-structure-20160518.csv
+data-20170206-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170206-structure-20160518.csv
+data-20170130-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/data-20170130-structure-20160518.csv
+structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-importcell/structure-20160518.csv
+structure-20160318,http://roszdravnadzor.ru/opendata/7710537160-importcell/structure-20160318.csv

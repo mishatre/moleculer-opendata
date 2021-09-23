@@ -1,0 +1,20 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-service
+title,"Перечень государственных услуг, оказываемых Росздравнадзором"
+description,"Перечень государственных услуг, оказываемых Росздравнадзором"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160115
+modified,20200413
+provenance,"Набор содержит перечень государственных услуг, оказываемых Росздравнадзором. Набор данных обновляется по мере необходимости."
+valid,20211231
+subject,"государственные услуги, наименование"
+data-20200413-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-service/data-20200413-structure-20160115.csv
+data-20170618-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-service/data-20170618-structure-20160115.csv
+data-20170519-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-service/data-20170519-structure-20160115.csv
+data-20160115-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-service/data-20160115-structure-20160115.csv
+structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-service/structure-20160115.csv

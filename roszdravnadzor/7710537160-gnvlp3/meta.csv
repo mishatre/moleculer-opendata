@@ -1,0 +1,27 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-gnvlp3
+title,"Динамика уровня закупочных цен на ЖНВЛП в различных федеральных округах. Амбулаторный сегмент (Мониторинг ассортимента и цен на ЖНВЛП)"
+description,"Динамика уровня закупочных цен на ЖНВЛП в различных федеральных округах. Амбулаторный сегмент (Мониторинг ассортимента и цен на ЖНВЛП). Ежемесячно."
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20150729
+modified,20180806
+provenance,"Обновление набора данных"
+valid,20210517
+subject,"жизненно необходимые и важнейшие лекарственные препараты, динамика закупочных цен по регионам и округам, амбулаторный сегмент"
+data-20180618-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20180618-structure-20160811.csv
+data-20180511-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20180511-structure-20160811.csv
+data-20180412-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20180412-structure-20160811.csv
+data-20180313-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20180313-structure-20160811.csv
+data-20180214-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20180214-structure-20160811.csv
+data-20180119-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20180119-structure-20160811.csv
+data-20171213-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20171213-structure-20160811.csv
+data-20171114-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20171114-structure-20160811.csv
+data-20171011-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20171011-structure-20160811.csv
+data-20170915-structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/data-20170915-structure-20160811.csv
+structure-20160811,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/structure-20160811.csv
+structure-20150729,http://roszdravnadzor.ru/opendata/7710537160-gnvlp3/structure-20150729.csv

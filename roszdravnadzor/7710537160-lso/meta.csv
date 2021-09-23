@@ -1,0 +1,22 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-lso
+title,"Перечень подведомственных организаций Росздравнадзора"
+description,"Список подведомственных организаций Росздравнадзора"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20130725
+modified,20190804
+provenance,"Набор содержит список подведомственных организаций Росздравнадзора. Актуализация набора данных по мере необходимости."
+valid,20201231
+subject,"подведомственные организации, адреса организаций, контактные данные организаций"
+data-20190803-structure-20180403,http://roszdravnadzor.ru/opendata/7710537160-lso/data-20190803-structure-20180403.csv
+data-20181217-structure-20180403,http://roszdravnadzor.ru/opendata/7710537160-lso/data-20181217-structure-20180403.csv
+data-20180403-structure-20180403,http://roszdravnadzor.ru/opendata/7710537160-lso/data-20180403-structure-20180403.csv
+data-20160519-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-lso/data-20160519-structure-20150601.csv
+data-20150601-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-lso/data-20150601-structure-20150601.csv
+structure-20180403,http://roszdravnadzor.ru/opendata/7710537160-lso/structure-20180403.csv
+structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-lso/structure-20150601.csv

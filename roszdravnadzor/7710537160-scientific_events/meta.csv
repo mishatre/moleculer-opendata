@@ -1,0 +1,26 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-scientific_events
+title,"Сведения о проведении научных мероприятий"
+description,"Сведения о проведении научных мероприятий"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20180615
+modified,20210711
+provenance,
+valid,20210718
+subject,"Сведения о проведении научных мероприятий"
+data-20210711-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210711-structure-20180615.zip
+data-20210523-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210523-structure-20180615.zip
+data-20210516-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210516-structure-20180615.zip
+data-20210509-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210509-structure-20180615.zip
+data-20210425-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210425-structure-20180615.zip
+data-20210418-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210418-structure-20180615.zip
+data-20210411-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210411-structure-20180615.zip
+data-20210404-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210404-structure-20180615.zip
+data-20210321-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210321-structure-20180615.zip
+data-20210314-structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/data-20210314-structure-20180615.zip
+structure-20180615,http://roszdravnadzor.ru/opendata/7710537160-scientific_events/structure-20180615.csv

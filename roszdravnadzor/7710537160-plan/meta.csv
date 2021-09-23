@@ -1,0 +1,26 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-plan
+title,"План проведения плановых проверок юридических лиц и индивидуальных предпринимателей на очередной год"
+description,"Плановые проверки"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20130725
+modified,20210901
+provenance,"Набор содержит план проведения плановых проверок юридических лиц и индивидуальных предпринимателей на текущий год, актуализируемый ежемесячно."
+valid,20211001
+subject,"проверки, план проведения"
+data-20210901-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210901-structure-20150601.csv
+data-20210801-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210801-structure-20150601.csv
+data-20210701-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210701-structure-20150601.csv
+data-20210601-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210601-structure-20150601.csv
+data-20210501-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210501-structure-20150601.csv
+data-20210401-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210401-structure-20150601.csv
+data-20210301-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210301-structure-20150601.csv
+data-20210201-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210201-structure-20150601.csv
+data-20210101-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20210101-structure-20150601.csv
+data-20201201-structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/data-20201201-structure-20150601.csv
+structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-plan/structure-20150601.csv

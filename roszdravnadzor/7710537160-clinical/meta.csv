@@ -1,0 +1,26 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-clinical
+title,"Реестр выданных разрешений на проведение клинических исследований медицинских изделий"
+description,"Реестр выданных разрешений на проведение клинических исследований медицинских изделий"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160115
+modified,20210912
+provenance,"Набор содержит весь реестр выданных разрешений на проведение клинических исследований медицинских изделий. Набор актуализируется еженедельно."
+valid,20210919
+subject,"реестр, медицинские изделия, разрешения, клинические исследования"
+data-20210912-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210912-structure-20160115.csv
+data-20210905-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210905-structure-20160115.csv
+data-20210829-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210829-structure-20160115.csv
+data-20210822-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210822-structure-20160115.csv
+data-20210815-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210815-structure-20160115.csv
+data-20210808-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210808-structure-20160115.csv
+data-20210801-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210801-structure-20160115.csv
+data-20210725-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210725-structure-20160115.csv
+data-20210718-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210718-structure-20160115.csv
+data-20210711-structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/data-20210711-structure-20160115.csv
+structure-20160115,http://roszdravnadzor.ru/opendata/7710537160-clinical/structure-20160115.csv

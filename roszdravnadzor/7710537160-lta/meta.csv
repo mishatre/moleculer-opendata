@@ -1,0 +1,28 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-lta
+title,"Перечень территориальных органов Росздравнадзора"
+description,"Список территориальных органов Росздравнадзора"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20130725
+modified,20210901
+provenance,"Актуализация списка территориальных органов Росздравнадзора"
+valid,20211001
+subject,"территориальные органы, адреса территориальных органов, контактные данные территориальных органов"
+data-20210901-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210901-structure-20180925.csv
+data-20210801-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210801-structure-20180925.csv
+data-20210701-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210701-structure-20180925.csv
+data-20210601-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210601-structure-20180925.csv
+data-20210501-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210501-structure-20180925.csv
+data-20210401-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210401-structure-20180925.csv
+data-20210301-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210301-structure-20180925.csv
+data-20210201-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210201-structure-20180925.csv
+data-20210101-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20210101-structure-20180925.csv
+data-20201201-structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/data-20201201-structure-20180925.csv
+structure-20180925,http://roszdravnadzor.ru/opendata/7710537160-lta/structure-20180925.csv
+structure-20180327,http://roszdravnadzor.ru/opendata/7710537160-lta/structure-20180327.csv
+structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-lta/structure-20150601.csv

@@ -1,0 +1,19 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-council
+title,"Состав Общественного совета при Росздравнадзоре"
+description,"Состав Общественного совета при Росздравнадзоре"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20180119
+modified,20200502
+provenance,"Набор данных содержит информацию о составе Общественного совета при Росздравнадзоре. Набор данных обновляется по мере необходимости."
+valid,20211231
+subject,"Общественный совет, состав, ФИО, должность"
+data-20200502-structure-20180119,http://roszdravnadzor.ru/opendata/7710537160-council/data-20200502-structure-20180119.csv
+data-20190204-structure-20180119,http://roszdravnadzor.ru/opendata/7710537160-council/data-20190204-structure-20180119.csv
+data-20180119-structure-20180119,http://roszdravnadzor.ru/opendata/7710537160-council/data-20180119-structure-20180119.csv
+structure-20180119,http://roszdravnadzor.ru/opendata/7710537160-council/structure-20180119.csv

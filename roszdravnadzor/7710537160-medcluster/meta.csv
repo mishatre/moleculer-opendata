@@ -1,0 +1,27 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-medcluster
+title,"Реестр уведомлений о начале осуществления медицинской деятельности в медицинском кластере"
+description,"Реестр уведомлений о начале осуществления медицинской деятельности в медицинском кластере"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,XML
+created,20170206
+modified,20210919
+provenance,"Еженедельная актуализация сведений"
+valid,20210926
+subject,"Росздравнадзор, уведомления, медицинская деятельность, кластер"
+data-20210919-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210919-structure-20191004.zip
+data-20210912-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210912-structure-20191004.zip
+data-20210905-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210905-structure-20191004.zip
+data-20210829-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210829-structure-20191004.zip
+data-20210822-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210822-structure-20191004.zip
+data-20210815-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210815-structure-20191004.zip
+data-20210808-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210808-structure-20191004.zip
+data-20210801-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210801-structure-20191004.zip
+data-20210725-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210725-structure-20191004.zip
+data-20210718-structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/data-20210718-structure-20191004.zip
+structure-20191004,http://roszdravnadzor.ru/opendata/7710537160-medcluster/structure-20191004.xsd
+structure-20170206,http://roszdravnadzor.ru/opendata/7710537160-medcluster/structure-20170206.csv

@@ -1,0 +1,28 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-cert
+title,"Реестр экспертов, привлекаемых Росздравнадзором к проведению мероприятий по контролю"
+description,"Реестр экспертов, привлекаемых Росздравнадзором (территориальным органом Росздравнадзора) к проведению мероприятий по контролю, в отношении которых принято решение об аттестации"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20150914
+modified,20210919
+provenance,"Набор содержит весь реестр экспертов, привлекаемых Росздравнадзором к проведению мероприятий по контролю. Актуализация набора еженедельная."
+valid,20210926
+subject,"Реестр экспертов, Вид экспертизы, Область экспертизы, Субъект Российской Федерации, ФИО эксперта"
+data-20210919-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210919-structure-20160518.csv
+data-20210912-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210912-structure-20160518.csv
+data-20210905-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210905-structure-20160518.csv
+data-20210829-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210829-structure-20160518.csv
+data-20210822-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210822-structure-20160518.csv
+data-20210815-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210815-structure-20160518.csv
+data-20210808-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210808-structure-20160518.csv
+data-20210801-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210801-structure-20160518.csv
+data-20210725-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210725-structure-20160518.csv
+data-20210718-structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/data-20210718-structure-20160518.csv
+structure-20160518,http://roszdravnadzor.ru/opendata/7710537160-cert/structure-20160518.csv
+structure-20150918,http://roszdravnadzor.ru/opendata/7710537160-cert/structure-20150918.csv
+structure-20150914,http://roszdravnadzor.ru/opendata/7710537160-cert/structure-20150914.csv

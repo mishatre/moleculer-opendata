@@ -1,0 +1,32 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-licenses
+title,"Реестр лицензий Росздравнадзора"
+description,"Реестры лицензий Росздравнадзора"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,XML
+created,20131211
+modified,20210919
+provenance,"Обновление набора данных"
+valid,20210926
+subject,"реестры лицензий, лицензии Росздравнадзора"
+data-20210919-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210919-structure-20210307.zip
+data-20210912-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210912-structure-20210307.zip
+data-20210905-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210905-structure-20210307.zip
+data-20210829-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210829-structure-20210307.zip
+data-20210822-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210822-structure-20210307.zip
+data-20210815-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210815-structure-20210307.zip
+data-20210808-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210808-structure-20210307.zip
+data-20210801-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210801-structure-20210307.zip
+data-20210725-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210725-structure-20210307.zip
+data-20210718-structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/data-20210718-structure-20210307.zip
+structure-20210307,http://roszdravnadzor.ru/opendata/7710537160-licenses/structure-20210307.xsd
+structure-20200906,http://roszdravnadzor.ru/opendata/7710537160-licenses/structure-20200906.xsd
+structure-20191114,http://roszdravnadzor.ru/opendata/7710537160-licenses/structure-20191114.xsd
+structure-20170926,http://roszdravnadzor.ru/opendata/7710537160-licenses/structure-20170926.xsd
+structure-20170421,http://roszdravnadzor.ru/opendata/7710537160-licenses/structure-20170421.xsd
+structure-20170418,http://roszdravnadzor.ru/opendata/7710537160-licenses/structure-20170418.xsd
+structure-20150601,http://roszdravnadzor.ru/opendata/7710537160-licenses/structure-20150601.csv

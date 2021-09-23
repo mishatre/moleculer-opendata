@@ -6,7 +6,7 @@ import path from 'path';
 import fs from 'fs';
 import parse from 'csv-parse';
 import unzip from 'unzip-stream';
-import { PassThrough, Transform } from 'stream';
+import { PassThrough, Readable, Transform, Writable } from 'stream';
 import { pipeline } from 'stream/promises';
 import iconvLite from 'iconv-lite';
 
@@ -203,12 +203,137 @@ export default class OpenDataService extends MoleculerService {
 
     }
 
+    delay(time: number) {
+        return new Promise(resolve => setTimeout(resolve, time));
+    }
+
+    private async parseCaterogyList(stream: Readable) {
+
+        const through = new PassThrough({
+            objectMode: true,
+        });
+
+        const self = this;
+
+        pipeline(
+            stream,
+            parse({
+                columns: true,
+            }),
+            async function* (source) {
+                for await (const row of source) {
+                    if (row.property === 'standardversion') {
+                        continue;
+                    }
+                    await self.delay(1000);
+
+                    let response = {
+                        data: null,
+                    } as { data: null | Readable };
+
+                    const filePath = path.join(__dirname, '../roszdravnadzor', row.value.replace('http://roszdravnadzor.ru/opendata', ''));
+                    if (fs.existsSync(filePath)) {
+                        response.data = fs.createReadStream(filePath);
+                    } else {
+                        response = await axios.get(row.value, { responseType: 'stream' });
+                        fs.mkdirSync(path.dirname(filePath));
+                        await pipeline(
+                            response.data!,
+                            fs.createWriteStream(filePath)
+                        );
+                        response.data = fs.createReadStream(filePath);
+                    }
+
+                    const data = {
+                        id: row.property,
+                        name: row.title,
+                        meta_url: row.value,
+                        meta_type: row.format,
+                    };
+
+                    (await self.parseClassificatorMetadata(data, response.data!)).pipe(through);
+
+                }
+            }
+        );
+        return through;
+
+    }
+
+    private async parseClassificatorMetadata(data: any, stream: Readable) {
+
+        const through = new PassThrough({
+            objectMode: true,
+        });
+
+        const self = this;
+
+        pipeline(
+            stream,
+            parse({
+                columns: true,
+            }),
+            async function* (source) {
+                const additional = {} as { [key: string]: any };
+                for await (const row of source) {
+                    if (row.property === 'standardversion') {
+                        continue;
+                    }
+                    additional[row.property] = row.value;
+                }
+                yield {
+                    ...data,
+                    ...self.parsMetadataProperties(additional),
+                }
+            },
+            through,
+        );
+
+        return through;
+
+    }
+
+    private parsMetadataProperties(additional: { [key: string]: any }) {
+        const data = {} as { [key: string]: any }
+
+        Object.entries(additional).reduce((acc, [property, value]) => {
+            acc[property] = value;
+            return acc;
+        }, {});
+
+        return data;
+    }
+
+    private async load() {
+
+        // const response = await axios.get('https://roszdravnadzor.gov.ru/opendata/list.csv', { responseType: 'stream' });
+        // if (response.data)
+        //     response.data.pipe(fs.createWriteStream('./list.csv'));
+        const response = {
+            data: fs.createReadStream('./list.csv'),
+        }
+
+        const parsingStream = await this.parseCaterogyList(response.data)
+
+        parsingStream
+            .pipe(
+                new Transform({
+                    objectMode: true,
+                    transform: (chunk, e, cb) => {
+                        console.log(chunk)
+                        cb();
+                    }
+                })
+            )
 
 
 
-    private started() {
+    }
+
+    private async started() {
         console.log('started')
-        this.fetchData({});
+        await this.load();
+        // this.fetchData({});
         // this.catalog = {
         //     medinfo: {
         //         name: '',

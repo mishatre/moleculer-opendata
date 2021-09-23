@@ -1,0 +1,27 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7710537160-revisions
+title,"Результаты проведения проверок Росздравнадзором юридических лиц (их филиалов, представительств, обособленных структурных подразделений) и индивидуальных предпринимателей за текущий год"
+description,"Результаты проведения проверок Росздравнадзором юридических лиц (их филиалов, представительств, обособленных структурных подразделений) и индивидуальных предпринимателей за текущий год"
+creator,"Росздравнадзор"
+publishername,"Мухитдинов Рустам Эркинович"
+publisherphone,(499) 578-06-86
+publishermbox,"opendata@roszdravnadzor.gov.ru"
+format,CSV
+created,20160408
+modified,20210919
+provenance,"Обновление набора данных"
+valid,20210926
+subject,"Результаты проведения проверок Росздравнадзором юридических лиц (их филиалов, представительств, обособленных структурных подразделений) и индивидуальных предпринимателей"
+data-20210919-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210919-structure-20170303.csv
+data-20210912-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210912-structure-20170303.csv
+data-20210905-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210905-structure-20170303.csv
+data-20210829-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210829-structure-20170303.csv
+data-20210822-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210822-structure-20170303.csv
+data-20210815-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210815-structure-20170303.csv
+data-20210808-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210808-structure-20170303.csv
+data-20210801-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210801-structure-20170303.csv
+data-20210725-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210725-structure-20170303.csv
+data-20210718-structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/data-20210718-structure-20170303.csv
+structure-20170303,http://roszdravnadzor.ru/opendata/7710537160-revisions/structure-20170303.csv
+structure-20160412,http://roszdravnadzor.ru/opendata/7710537160-revisions/structure-20160412.csv
